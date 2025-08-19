@@ -1,4 +1,11 @@
-## Hi there 👋
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sn0rkmaiden&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sn0rkmaiden"
+    width="600"
+    height="120"
+  />
+</a>
 
 <!--
 **sn0rkmaiden/sn0rkmaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
