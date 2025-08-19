@@ -1,10 +1,9 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sn0rkmaiden&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/sn0rkmaiden"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sn0rkmaiden&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sn0rkmaiden"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
